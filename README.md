@@ -10,7 +10,7 @@ This is My Data analysis Portfolio
 - Which movie has the highest vote rate?
 - What is the bottom 8 movies by popularity?
 
-![](/Images/bottom_8_movies.png]
+<img src="/Images/bottom_8_movies.png" width="740" height="340">
 
 - What is the top Six revenue movies?
 - What is the effect of the film budget over time in the first 35 years?
