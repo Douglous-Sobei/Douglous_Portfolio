@@ -1,7 +1,7 @@
 # Douglous_Portfolio
 This is My Data analysis Portfolio
 
-# [Project 1: TMDb_Movie_Analysis:](https://github.com/Douglous-Sobei/TMDb_Movie_Analysis)
+# [Project 1: TMDb_Movie_Analysis](https://github.com/Douglous-Sobei/TMDb_Movie_Analysis)
 ## Project Overview
 > I chose The TMDb Movie Data Set for data analysis. It contains information about 10,000 movies collected from the Movie Database(TMDb), including user ratings and revenue.
 
@@ -21,7 +21,7 @@ This is My Data analysis Portfolio
 
 <img src="/Images/the_degree_budget.png">
 
-# [Project 2: Data_Wrangling:](https://github.com/Douglous-Sobei/Data_Wrangling)
+# [Project 2: Data_Wrangling](https://github.com/Douglous-Sobei/Data_Wrangling)
 ## Project Overview
 > Data wrangling is an important skill that people working with data have to aquire since the world's data isn't clean. To make our data clean, wrangling is essential. In any case we analyze, visualize, or model our data before wrangling, the outcome could be making mistakes. Therefore, wrangling is the best practice to reach our expections.
 
