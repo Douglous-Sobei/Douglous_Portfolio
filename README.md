@@ -1,5 +1,5 @@
 # Douglous_Portfolio
-This is My Data analysis Portfolio
+This is my Data Analysis Portfolio
 
 # [Project 1: TMDb_Movie_Analysis](https://github.com/Douglous-Sobei/TMDb_Movie_Analysis)
 ## Project Overview
@@ -46,4 +46,4 @@ This is My Data analysis Portfolio
 
 - The number of female vs male dogs
 
-<img src="/Images/the_degree_budget.png"
+<img src="/Images/female_vs_male_dogs.png"
