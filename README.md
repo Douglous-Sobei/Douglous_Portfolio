@@ -33,3 +33,16 @@ This is My Data analysis Portfolio
 - Fixed the quality and tidiness issues
 - Made a copy in file to test the change before applying to the main dataset.
 - Made insights and visualizations
+> In the insights and visualizations, I anwered the following questions;
+
+- What are most common dogs' names?
+
+<img src="/Images/top_5_dogs.png">
+
+- What is the most common dog in this dataset.
+
+<img src="/Images/most_rated_dog.png">
+
+- The number of female vs male dogs
+
+<img src="/Images/the_degree_budget.png"
