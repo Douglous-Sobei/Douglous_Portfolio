@@ -9,10 +9,15 @@ This is My Data analysis Portfolio
 > In the Data Analysis process, I answered the following questions:
 - Which movie has the highest vote rate?
 - What is the bottom 8 movies by popularity?
+
 <img src="/Images/bottom_8_movies.png">
+
 - What is the top Six revenue movies?
+
 <img src="/Images/top_6_revenue_movies.png">
+
 - What is the effect of the film budget over time in the first 35 years?
+
 <img src="/Images/the_degree_budget.png">
 # [Project 2: Data_Wrangling: Project Overview](https://github.com/Douglous-Sobei/Data_Wrangling)
 
