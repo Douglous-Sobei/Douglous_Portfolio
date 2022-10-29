@@ -19,6 +19,7 @@ This is My Data analysis Portfolio
 - What is the effect of the film budget over time in the first 35 years?
 
 <img src="/Images/the_degree_budget.png">
+
 # [Project 2: Data_Wrangling: Project Overview](https://github.com/Douglous-Sobei/Data_Wrangling)
 
 > Data wrangling is an important skill that people working with data have to aquire since the world's data isn't clean. To make our data clean, wrangling is essential. In any case we analyze, visualize, or model our data before wrangling, the outcome could be making mistakes. Therefore, wrangling is the best practice to reach our expections.
