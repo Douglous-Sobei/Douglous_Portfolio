@@ -46,4 +46,4 @@ This is my Data Analysis Portfolio
 
 - The number of female vs male dogs
 
-<img src="/Images/female_vs_male_dogs.png"
+<img src="/Images/female_vs_male_dogs.png">
