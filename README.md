@@ -47,3 +47,30 @@ This is my Data Analysis Portfolio
 - The number of female vs male dogs
 
 <img src="/Images/female_vs_male_dogs.png">
+
+# [Project 3: LoanDatafromProsper Data analysis](https://github.com/Douglous-Sobei/LoanDatafromProsper)
+## Project Overview
+>This project consit of a financial dataset and this is related to the loan, borrowers, lenders, interest rates and stuffs like that. Prosper or Prosper Marketplace Inc. is a San Francisco, California based company specializing in loans at low interest rates to the borrowers. In this dataset, am using the data from the Posper to analyse it and trying to find the pattern in the Prosper data.
+
+> The dataset which consist of borrower APRs and attributes of 113,937 loans. The attributes include original loan amount, borrower's Prosper rating, loan term, borrower's stated monthly income, as well as many other features such as borrower's employment status, debt to income ratio, current loan status and so on.
+
+> In my analysis, I answered some the questions of interest as shown below.
+- What is the Borrower's Annual Percentage Rate (APR) and the Borrower's interest rate for this loan?
+
+<img src="/Images/top_5_dogs.png">
+
+- How BorrowerRate & ProsperScore behavior with categorical features?
+
+<img src="/Images/top_5_dogs.png">
+
+- What's relationship between Term and the CreditGrade/ProsperRating(s) and ProsperScore ?
+
+<img src="/Images/top_5_dogs.png">
+
+- What's most common Employment Status in each Prosper Rating ?
+
+<img src="/Images/top_5_dogs.png">
+
+- How The rating and term affect on Borrower APR ?
+
+<img src="/Images/top_5_dogs.png">
