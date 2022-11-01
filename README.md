@@ -1,5 +1,5 @@
 # Douglous_Portfolio
-This is my Data Analysis Portfolio
+As a data analyst I have done the following projects successfully.
 
 # [Project 1: TMDb_Movie_Analysis](https://github.com/Douglous-Sobei/TMDb_Movie_Analysis)
 ## Project Overview
