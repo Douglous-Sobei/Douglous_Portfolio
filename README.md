@@ -57,20 +57,20 @@ This is my Data Analysis Portfolio
 > In my analysis, I answered some the questions of interest as shown below.
 - What is the Borrower's Annual Percentage Rate (APR) and the Borrower's interest rate for this loan?
 
-<img src="/Images/top_5_dogs.png">
+<img src="/Images/borrower_rating.png">
 
 - How BorrowerRate & ProsperScore behavior with categorical features?
 
-<img src="/Images/top_5_dogs.png">
+<img src="/Images/categorical_features.png">
 
 - What's relationship between Term and the CreditGrade/ProsperRating(s) and ProsperScore ?
 
-<img src="/Images/top_5_dogs.png">
+<img src="/Images/creditgrade_prosperscore.png">
 
 - What's most common Employment Status in each Prosper Rating ?
 
-<img src="/Images/top_5_dogs.png">
+<img src="/Images/employment_status.png">
 
 - How The rating and term affect on Borrower APR ?
 
-<img src="/Images/top_5_dogs.png">
+<img src="/Images/effect_on_borrower_apr.png">
