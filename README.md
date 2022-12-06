@@ -54,11 +54,11 @@ In the project, did the following;
 
 # [Project 3: LoanDatafromProsper Data analysis](https://github.com/Douglous-Sobei/LoanDatafromProsper)
 ## Project Overview
->This project consit of a financial dataset and this is related to the loan, borrowers, lenders, interest rates and stuffs like that. Prosper or Prosper Marketplace Inc. is a San Francisco, California based company specializing in loans at low interest rates to the borrowers. In this dataset, am using the data from the Posper to analyse it and trying to find the pattern in the Prosper data.
+This project consit of a financial dataset and this is related to the loan, borrowers, lenders, interest rates and stuffs like that. Prosper or Prosper Marketplace Inc. is a San Francisco, California based company specializing in loans at low interest rates to the borrowers. In this dataset, am using the data from the Posper to analyse it and trying to find the pattern in the Prosper data.
 
-> The dataset which consist of borrower APRs and attributes of 113,937 loans. The attributes include original loan amount, borrower's Prosper rating, loan term, borrower's stated monthly income, as well as many other features such as borrower's employment status, debt to income ratio, current loan status and so on.
+The dataset which consist of borrower APRs and attributes of 113,937 loans. The attributes include original loan amount, borrower's Prosper rating, loan term, borrower's stated monthly income, as well as many other features such as borrower's employment status, debt to income ratio, current loan status and so on.
 
-> In my analysis, I answered some the questions of interest as shown below.
+In my analysis, I answered some the questions of interest as shown below.
 - What is the Borrower's Annual Percentage Rate (APR) and the Borrower's interest rate for this loan?
 
 <img src="/Images/borrower_rating.png">
