@@ -1,5 +1,8 @@
 # Douglous_Portfolio
-As a data analyst I have done the following projects successfully.
+
+Hi everyone, I'm Douglous Sobei. I am loking for an entry data analyst role to gain proffessional experience.
+I'm interested in problem solving through executing projects in which I do thorough investigation, analysis and communication of data to offer the intended solution.
+Though not experienced in the field, I have done a number of personal projects which have shappened my skills and the work experience. The following are some of the projects I have implemented successfully:
 
 # [Project 1: TMDb_Movie_Analysis](https://github.com/Douglous-Sobei/TMDb_Movie_Analysis)
 ## Project Overview
