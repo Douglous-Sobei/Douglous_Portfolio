@@ -77,3 +77,23 @@ Though not experienced in the field, I have done a number of personal projects w
 - How The rating and term affect on Borrower APR ?
 
 <img src="/Images/effect_on_borrower_apr.png">
+
+# [Project 4: Titanic Data Analysi Project](https://github.com/Douglous-Sobei/Titanic_Data_anaysis_project)
+## Project Overview
+> The Project is about the sinking of the RMS Titanic which is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
+
+> One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class.
+
+> In my project, I did data exploration and analysis in which My main focus was finding out the surviving rate of the people in the ship. I answered the following questions about the dataset:
+- Which gender had a better chance of survival ?
+
+<img src="/Images/Survivors_by_gender.png">
+
+- What was the probability of survival for children, men and women?
+
+<img src="/Images/survival_of_children_men_women.png">
+
+- Which age group had a better chance of survival?
+
+<img src="/Images/survival_by_age.png">
+
