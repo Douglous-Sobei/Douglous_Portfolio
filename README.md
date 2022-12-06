@@ -6,11 +6,12 @@ Though not experienced in the field, I have done a number of personal projects w
 
 # [Project 1: TMDb_Movie_Analysis](https://github.com/Douglous-Sobei/TMDb_Movie_Analysis)
 ## Project Overview
-> I chose The TMDb Movie Data Set for data analysis. It contains information about 10,000 movies collected from the Movie Database(TMDb), including user ratings and revenue.
 
-> Dropped some values in the revenue and budget which were zeros, removed the duplicate values in the dataset, and also dropped the misssing values to get the data set fixed.
+I chose The TMDb Movie Data Set for data analysis. It contains information about 10,000 movies collected from the Movie Database(TMDb), including user ratings and revenue.
 
-> In the Data Analysis process, I answered the following questions:
+Dropped some values in the revenue and budget which were zeros, removed the duplicate values in the dataset, and also dropped the misssing values to get the data set fixed.
+
+In the Data Analysis process, I answered the following questions:
 - Which movie has the highest vote rate?
 - What is the bottom 8 movies by popularity?
 
@@ -26,9 +27,9 @@ Though not experienced in the field, I have done a number of personal projects w
 
 # [Project 2: Data_Wrangling](https://github.com/Douglous-Sobei/Data_Wrangling)
 ## Project Overview
-> Data wrangling is an important skill that people working with data have to aquire since the world's data isn't clean. To make our data clean, wrangling is essential. In any case we analyze, visualize, or model our data before wrangling, the outcome could be making mistakes. Therefore, wrangling is the best practice to reach our expections.
+Data wrangling is an important skill that people working with data have to aquire since the world's data isn't clean. To make our data clean, wrangling is essential. In any case we analyze, visualize, or model our data before wrangling, the outcome could be making mistakes. Therefore, wrangling is the best practice to reach our expections.
 
-> In the project, did the following;
+In the project, did the following;
 - Got data from an existing file (twitter-archive-enhanced.csv) Reading from csv file using pandas
 - Downloaded a file from the internet (image-predictions.tsv) using requests
 - Did a query of an API (tweet_json.txt) to get JSON object of all the tweet_ids using Tweepy
@@ -80,11 +81,11 @@ Though not experienced in the field, I have done a number of personal projects w
 
 # [Project 4: Titanic Data Analysi Project](https://github.com/Douglous-Sobei/Titanic_Data_anaysis_project)
 ## Project Overview
-> The Project is about the sinking of the RMS Titanic which is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
+The Project is about the sinking of the RMS Titanic which is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
 
-> One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class.
+One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class.
 
-> In my project, I did data exploration and analysis in which My main focus was finding out the surviving rate of the people in the ship. I answered the following questions about the dataset:
+In my project, I did data exploration and analysis in which My main focus was finding out the surviving rate of the people in the ship. I answered the following questions about the dataset:
 - Which gender had a better chance of survival ?
 
 <img src="/Images/Survivors_by_gender.png">
