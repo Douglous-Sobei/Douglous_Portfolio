@@ -23,7 +23,7 @@ In the Data Analysis process, I answered the following questions:
 
 - What is the effect of the film budget over time in the first 35 years?
 
-[the_degree_budget](Images/the_degree_budget.png)
+![the_degree_budget](Images/the_degree_budget.png)
 
 # [Project 2: Data_Wrangling](https://github.com/Douglous-Sobei/Data_Wrangling)
 ## Project Overview
@@ -46,11 +46,11 @@ In the project, did the following;
 
 - What is the most common dog in this dataset.
 
-<img src="/Images/most_rated_dog.png">
+[most_rated_dog](Images/most_rated_dog.png)
 
 - The number of female vs male dogs
 
-<img src="/Images/female_vs_male_dogs.png">
+![female_vs_male_dogs](Images/female_vs_male_dogs.png)
 
 # [Project 3: LoanDatafromProsper Data analysis](https://github.com/Douglous-Sobei/LoanDatafromProsper)
 ## Project Overview
@@ -61,23 +61,23 @@ The dataset which consist of borrower APRs and attributes of 113,937 loans. The 
 In my analysis, I answered some the questions of interest as shown below.
 - What is the Borrower's Annual Percentage Rate (APR) and the Borrower's interest rate for this loan?
 
-<img src="/Images/borrower_rating.png">
+![borrower_rating.png](Images/borrower_rating.png)
 
 - How BorrowerRate & ProsperScore behavior with categorical features?
 
-[categorical_features](Images/categorical_features.png)
+![categorical_features](Images/categorical_features.png)
 
 - What's relationship between Term and the CreditGrade/ProsperRating(s) and ProsperScore ?
 
-<img src="/Images/creditgrade_prosperscore.png">
+![creditgrade_prosperscore](Images/creditgrade_prosperscore.png)
 
 - What's most common Employment Status in each Prosper Rating ?
 
-<img src="/Images/employment_status.png">
+![employment_status](Images/employment_status.png)
 
 - How The rating and term affect on Borrower APR ?
 
-<img src="/Images/effect_on_borrower_apr.png">
+![effect_on_borrower_apr](Images/effect_on_borrower_apr.png)
 
 # [Project 4: Titanic Data Analysi Project](https://github.com/Douglous-Sobei/Titanic_Data_anaysis_project)
 ## Project Overview
@@ -88,15 +88,15 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 In my project, I did data exploration and analysis in which My main focus was finding out the surviving rate of the people in the ship. I answered the following questions about the dataset:
 - Which gender had a better chance of survival ?
 
-<img src="/Images/Survivors_by_gender.png">
+![Survivors_by_gender](Images/Survivors_by_gender.png)
 
 - What was the probability of survival for children, men and women?
 
-<img src="/Images/survival_of_children_men_women.png">
+![survival_of_children_men_women](Images/survival_of_children_men_women.png)
 
 - Which age group had a better chance of survival?
 
-<img src="/Images/survival_by_age.png">
+![survival_by_age](Images/survival_by_age.png)
 
 # [Project 5: Open_Policing_Project](https://github.com/Douglous-Sobei/Open_Policing_Project)
 ## Project Overview
