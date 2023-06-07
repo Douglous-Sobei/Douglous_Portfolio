@@ -15,15 +15,15 @@ In the Data Analysis process, I answered the following questions:
 - Which movie has the highest vote rate?
 - What is the bottom 8 movies by popularity?
 
-<img src="/Images/bottom_8_movies.png">
+![bottom_8_movies](Images/bottom_8_movies.png)
 
 - What is the top Six revenue movies?
 
-<img src="/Images/top_6_revenue_movies.png">
+![top_6_revenue_movies](Images/top_6_revenue_movies.png)
 
 - What is the effect of the film budget over time in the first 35 years?
 
-<img src="/Images/the_degree_budget.png">
+[the_degree_budget](Images/the_degree_budget.png)
 
 # [Project 2: Data_Wrangling](https://github.com/Douglous-Sobei/Data_Wrangling)
 ## Project Overview
@@ -42,7 +42,7 @@ In the project, did the following;
 
 - What are most common dogs' names?
 
-<img src="/Images/top_5_dogs.png">
+![top_5_dogs](Images/top_5_dogs.png)
 
 - What is the most common dog in this dataset.
 
@@ -65,7 +65,7 @@ In my analysis, I answered some the questions of interest as shown below.
 
 - How BorrowerRate & ProsperScore behavior with categorical features?
 
-<img src="/Images/categorical_features.png">
+[categorical_features](Images/categorical_features.png)
 
 - What's relationship between Term and the CreditGrade/ProsperRating(s) and ProsperScore ?
 
